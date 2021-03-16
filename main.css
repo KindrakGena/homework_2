@@ -1,0 +1,27 @@
+body {
+    box-sizing: border-box;
+    background: beige;
+}
+.head {
+    border: 2px solid cadetblue;
+    border-radius: 6px;
+    margin: 10px 15px;
+    padding: 10px 20px;
+}
+
+.menu {
+    background: #d7d2e2;
+    display: table;
+    padding: 8px;
+    border: 1px solid black;
+}
+.film {
+    display: flex;
+    justify-content: center;
+}
+.priz {
+    background: #d7d2e2;
+    display: table;
+    padding: 8px;
+    border: 1px solid black;
+}
